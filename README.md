@@ -1,7 +1,7 @@
 ### 17 | 🇩🇪 | CS student at JWG | [homepage](https://jonasjones.me)
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-onasJones&show_icons=true&theme=gotham" width="53%"></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="45%"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="44.5%"></a>
 
 [![CurseForge](https://img.shields.io/badge/Curseforge-jonas_jones_-edf6d3?style=plastic&labelColor=228B22)](https://www.curseforge.com/members/jonas_jones_/projects)
 [![Modrinth](https://img.shields.io/badge/Modrinth-j--onasjones-edf6d3?style=plastic&labelColor=20d76c)](https://modrinth.com/user/j-onasjones)
