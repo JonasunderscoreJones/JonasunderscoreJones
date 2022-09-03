@@ -3,12 +3,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-onasJones&show_icons=true&theme=gotham" width="53%"></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="44.5%"></a>
 
-[![CurseForge](https://img.shields.io/badge/Curseforge-jonas_jones_-edf6d3?style=plastic&labelColor=228B22)](https://www.curseforge.com/members/jonas_jones_/projects)
-[![Modrinth](https://img.shields.io/badge/Modrinth-j--onasjones-edf6d3?style=plastic&labelColor=20d76c)](https://modrinth.com/user/j-onasjones)
-![Twitter Follow](https://img.shields.io/twitter/follow/Jonas_Jones_?label=Twitter%20%40Jonas_Jones_&style=plastic)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Jonas_Jones_?color=red&label=Reddit%20u%2FJonas_Jones_&style=plastic)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVIxvKBIMSMgurYS8pK7fSg?label=Jonas_Jones&style=flat)
-[![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=plastic&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
+### Tools, Languages, etc.
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=gold)
 ![](https://img.shields.io/badge/IDE-Intellij_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=8450A9)
@@ -27,5 +22,25 @@
 ![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white&color=262626)
 ![](https://img.shields.io/badge/Code-sql-informational?style=flat&logo=sqlite&logoColor=white&color=3476B5)
 ![](https://img.shields.io/badge/Code-Brainfuck-informational?style=flat&logo=brainfuck&logoColor=white&color=6137AD)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=bash&logoColor=white&color=262E34)
+![](https://img.shields.io/badge/Code-Shellscript-informational?style=flat&logo=gnubash&logoColor=white&color=262E34)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=262E34)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=4BD7B7)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=D15238)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=505050)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=AD3D37)
+![](https://img.shields.io/badge/Tool-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=6EA35E)
+![](https://img.shields.io/badge/Tool-Fabric-informational?style=flat&logo=fabricmc&logoColor=white&color=D0C5AB)
+![](https://img.shields.io/badge/Tool-Quilt-informational?style=flat&logo=quiltmc&logoColor=white&color=1A1129)
+![](https://img.shields.io/badge/Tool-Forge-informational?style=flat&logo=curseforge&logoColor=white&color=1F2A41)
+![](https://img.shields.io/badge/Platform-Modrinth-informational?style=flat&logo=modrinth&logoColor=white&color=1ACE65)
+![](https://img.shields.io/badge/Platform-Curseforge-informational?style=flat&logo=curseforge&logoColor=white&color=1F2A41)
+
+
+### Contact
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-j--onasjones-edf6d3?style=plastic&labelColor=20d76c)](https://modrinth.com/user/j-onasjones)
+[![CurseForge](https://img.shields.io/badge/Curseforge-jonas_jones_-edf6d3?style=plastic&labelColor=228B22)](https://www.curseforge.com/members/jonas_jones_/projects)
+![Twitter Follow](https://img.shields.io/twitter/follow/Jonas_Jones_?label=Twitter%20%40Jonas_Jones_&style=plastic)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Jonas_Jones_?color=red&label=Reddit%20u%2FJonas_Jones_&style=plastic)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVIxvKBIMSMgurYS8pK7fSg?label=Youtube&style=flat)
+[![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=plastic&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
