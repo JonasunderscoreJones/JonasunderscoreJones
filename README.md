@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=flat&logo=sublimetext&logoColor=white&color=F29000)
 ![](https://img.shields.io/badge/Editor-Blender-informational?style=flat&logo=blender&logoColor=white&color=DE7000)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=EA4800)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=EA2D2E)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=EA2D2E)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6092C7)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=5B6ABE)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=36709C)
