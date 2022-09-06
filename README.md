@@ -41,7 +41,7 @@
 ![](https://img.shields.io/badge/Toolchain-Fabric-informational?style=flat&logo=fabricmc&logoColor=white&color=D0C5AB)
 ![](https://img.shields.io/badge/Toolchain-Quilt-informational?style=flat&logo=quiltmc&logoColor=white&color=1A1129)
 ![](https://img.shields.io/badge/Toolchain-Forge-informational?style=flat&logo=curseforge&logoColor=white&color=1F2A41)
-![](https://img.shields.io/badge/Toolchain-Mojang_Studios-informational?style=flat&logo=mojangstudios&logoColor=white&color=EF323D)
+![](https://img.shields.io/badge/Minecraft-Mojang_Studios-informational?style=flat&logo=mojangstudios&logoColor=white&color=EF323D)
 ![](https://img.shields.io/badge/Toolchain-Modrinth-informational?style=flat&logo=modrinth&logoColor=white&color=1ACE65)
 ![](https://img.shields.io/badge/Toolchain-Curseforge-informational?style=flat&logo=curseforge&logoColor=white&color=1F2A41)
 ![](https://img.shields.io/badge/Platform-Raspberry_PI-informational?style=flat&logo=raspberrypi&logoColor=white&color=B2113F)
