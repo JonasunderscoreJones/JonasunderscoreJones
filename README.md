@@ -1,7 +1,7 @@
 ### 18 | 🇩🇪 | CS student at JWG | [homepage](https://jonasjones.me)
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-onasJones&show_icons=true&theme=gotham" width="53%"></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="44.5%"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-onasJones&show_icons=true&theme=gotham" width="56.5%"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="43%"></a>
 
 ### Tools, Languages, etc.
 
