@@ -57,3 +57,6 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Jonas_Jones_?color=red&label=Reddit%20u%2FJonas_Jones_&style=flat)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVIxvKBIMSMgurYS8pK7fSg?label=Youtube&style=flat)
 [![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=flat&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
+
+
+*Last relevant update: Sep 21, 2022*
