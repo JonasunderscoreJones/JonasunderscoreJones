@@ -1,4 +1,4 @@
-### 18 | 🇩🇪 | CS student at JWG | [homepage](https://jonasjones.me)
+### Jonas_Jones | [Homepage](https://jonasjones.me)
 
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=J-onasJones&show_icons=true&theme=gotham" width="56.5%"></a>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-onasJones&layout=compact&theme=dark" width="43%"></a>
@@ -59,4 +59,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=flat&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
 
 
-*Last relevant update: Sep 21, 2022*
+*Last relevant update: Apr 18, 2023*
