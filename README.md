@@ -36,6 +36,7 @@
 ![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=AD3D37)
 ![](https://img.shields.io/badge/Tool-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=6EA35E)
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=9FECF1)
+![](https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=FF3E00)
 ![](https://img.shields.io/badge/Toolkit-GTK-informational?style=flat&logo=gtk&logoColor=white&color=D80000)
 ![](https://img.shields.io/badge/Toolkit-QT-informational?style=flat&logo=qt&logoColor=white&color=41CD52)
 ![](https://img.shields.io/badge/Toolchain-Fabric-informational?style=flat&logo=fabricmc&logoColor=white&color=D0C5AB)
@@ -59,4 +60,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=flat&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
 
 
-*Last relevant update: Apr 18, 2023*
+*Last relevant update: Jul 10, 2023*
