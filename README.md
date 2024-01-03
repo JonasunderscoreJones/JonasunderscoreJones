@@ -55,8 +55,9 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-j--onasjones-edf6d3?style=flat&labelColor=20d76c)](https://modrinth.com/user/j-onasjones)
 [![CurseForge](https://img.shields.io/badge/Curseforge-jonas_jones_-edf6d3?style=flat&labelColor=228B22)](https://www.curseforge.com/members/jonas_jones_/projects)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/Jonas_Jones_?color=red&label=Reddit%20u%2FJonas_Jones_&style=flat)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVIxvKBIMSMgurYS8pK7fSg?label=Youtube&style=flat)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVIxvKBIMSMgurYS8pK7fSg?label=Youtube/Jonas_Jones&style=flat)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCuxxTa5ZCzYpjLSk-syKBcg?label=Youtube/Jones_Jonas&style=flat)
 [![Instagram](https://img.shields.io/badge/Instagram-__jonas__jones__-edf6d3?style=flat&labelColor=fb048e)](https://www.instagram.com/_jonas_jones_/)
 
 
-*Last relevant update: Sep 6, 2023*
+*Last relevant update: Jan 3rd, 2024*
