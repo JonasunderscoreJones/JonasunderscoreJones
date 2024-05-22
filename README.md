@@ -1,7 +1,7 @@
 ### Jonas_Jones | [<ins>jonasjones.dev</ins>](https://jonasjones.dev)
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasunderscoreJones&show_icons=true&theme=gotham" width="56.5%"></a>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasunderscoreJones&layout=compact&theme=dark" width="43%"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JonasunderscoreJones&show_icons=true&theme=gotham" width="100%"></a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JonasunderscoreJones&theme=dark" width="58%"></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasunderscoreJones&layout=compact&theme=dark" width="41.5%"></a>
 
 ### Tools, Languages, etc.
 
